@@ -16,3 +16,13 @@ Make sure you put the belts in the clip and push them in from the sides all the 
 Make sure you press the belt in at the same time so it doesn't slide out. Do this with caution, you will destroy your clips 
 and the belt if not done properly.Test fit all peces once off the printer so the screws can condition the holes. You have to 
 unscrew the front idlers fully to allow for this.
+
+# BOM
+4 M3x16,
+1 M3x8,
+6 M3x30,
+8 M2x12,
+4 M2.5x16,
+4 M3 hex nuts,
+5 M3 heat inserts,
+8 M2 heat inserts,
