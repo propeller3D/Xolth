@@ -14,4 +14,5 @@ Afterburner PCB (for now),
 # Important
 Make sure you put the belts in the clip and push them in from the sides all the way in while screwing the screw from above.
 Make sure you press the belt in at the same time so it doesn't slide out. Do this with caution, you will destroy your clips 
-and the belt if not done properly.Test fit all peces once off the printer so the screws can condition the holes.
+and the belt if not done properly.Test fit all peces once off the printer so the screws can condition the holes. You have to 
+unscrew the front idlers fully to allow for this.
