@@ -1,7 +1,7 @@
 # Xolth
 Xol  toolhead mod that lowers center of mass so the center is on the same plane as the rail. Uses the short ducts.
 
-Required components:
+# Required components:
 MGN9
 6mm belts
 Dragon UHF
