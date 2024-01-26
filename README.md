@@ -1,3 +1,6 @@
+
+![Xolth](https://github.com/propeller3D/Xolth/assets/42770427/8a77397e-b536-4886-b7c0-248ff8f8c0ad)
+
 # Xolth
 Xol  toolhead mod that lowers center of mass so the center is on the same plane as the rail. Uses the short ducts.
 
